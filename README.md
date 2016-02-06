@@ -6,7 +6,9 @@ This package contains keymap configuration for PhpStorm IDE.
 ## Instalation
 
 First, open PhpStorm IDE.
+
 Second, choose File | Import settings...
+
 Finally, choose `keymaps.jar` and hit `OK`.
 
 Restart PhpStorm IDE and profit!
