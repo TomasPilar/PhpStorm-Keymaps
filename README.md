@@ -25,6 +25,8 @@ Restart PhpStorm IDE and profit!
 | CTRL + R               | refactor this                               |
 | CTRL + U               | navigate to super method (overriden method) |
 | CTRL + W               | extend selection                            |
+| CTRL + NumLock-8       | clone caret above                           |
+| CTRL + NumLock-2       | clone caret below                           |
 | CTRL + SHIFT + A       | search in configuration                     |
 | CTRL + SHIFT + B       | refactor extract to constant                |
 | CTRL + SHIFT + C       | find by classname                           |
