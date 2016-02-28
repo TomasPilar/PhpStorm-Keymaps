@@ -41,7 +41,9 @@ Restart PhpStorm IDE and profit!
 | CTRL + SHIFT + ENTER   | complete current statement                  |
 | CTRL + SHIFT + UP      | move statement up                           |
 | CTRL + SHIFT + DOWN    | move statement down                         |
+| CTRL + ALT + F         | find in path                                |
 | CTRL + ALT + P         | select all occurrences                      |
+| CTRL + ALT + R         | replace in path                             |
 | ALT + 1                | show/hide Project navigator                 |
 | ALT + <                | move caret to line start                    |
 | ALT + >                | move caret to line end                      |
